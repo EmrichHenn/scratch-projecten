@@ -1,0 +1,10 @@
+* text=auto
+
+# Documentation
+*.md            text diff=markdown
+LICENSE         text
+.gitignore      text
+.gitattributes  text
+
+# Scratch
+*.sb3             binary
