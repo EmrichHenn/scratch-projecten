@@ -7,7 +7,20 @@
 
 - Getting to Know Code
   1. :heavy_check_mark: What is Coding?
-  2. :o: Think Like a Coder
+  2. :heavy_check_mark: Think Like a Coder
+  3. :heavy_check_mark: Binary Basics
+  4. :heavy_check_mark: Computer Languages
+  5. :heavy_check_mark: Start From Scratch
+  6. :heavy_check_mark: Plot Coordinates
+  7. :heavy_check_mark: :video_game: Code Coordinates
+  8. :heavy_check_mark: Step By Step
+  9. :o: :video_game: Make a Sprite Dance
+  10. :o: Variables
+
+### Coder Academy Projecten
+
+- Code Coordinates -- `CodeCoordinates.sb3`  
+  ![Code Coordinates Scratch project](screenshots/CodeCoordinates.jpg)
 
 ## :beginner: Programmeren voor kinderen
 
@@ -15,9 +28,10 @@
 
 1. :construction: TODO
 
-### Projecten
+### Programmeren voor kinderen Projecten
 
-- Kattenkunst -- `Kattenkunst.sb3`
+- Kattenkunst -- `Kattenkunst.sb3`  
+  ![Kattenkunst Scratch project](screenshots/Kattenkunst.jpg)
 
 ## :page_with_curl: License
 
