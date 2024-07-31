@@ -14,13 +14,15 @@
   6. :heavy_check_mark: Plot Coordinates
   7. :heavy_check_mark: :video_game: Code Coordinates
   8. :heavy_check_mark: Step By Step
-  9. :o: :video_game: Make a Sprite Dance
+  9. :heavy_check_mark: :video_game: Make a Sprite Dance
   10. :o: Variables
 
 ### Coder Academy Projecten
 
 - Code Coordinates -- `CodeCoordinates.sb3`  
   ![Code Coordinates Scratch project](screenshots/CodeCoordinates.jpg)
+- Make a Sprite Dance -- `SpriteDance.sb3`  
+  ![Make a Sprite Dance Scratch project](screenshots/SpriteDance.jpg)
 
 ## :beginner: Programmeren voor kinderen
 
