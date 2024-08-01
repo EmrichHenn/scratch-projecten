@@ -15,7 +15,14 @@
   7. :heavy_check_mark: :video_game: Code Coordinates
   8. :heavy_check_mark: Step By Step
   9. :heavy_check_mark: :video_game: Make a Sprite Dance
-  10. :o: Variables
+  10. :heavy_check_mark: Variables
+  11. :o: Flow Charts
+  12. :o: Making Decisions
+  13. :o: Using Broadcasts
+- Art and Animation
+- Music
+- Website
+- Coders's Kit
 
 ### Coder Academy Projecten
 
@@ -23,6 +30,8 @@
   ![Code Coordinates Scratch project](screenshots/CodeCoordinates.jpg)
 - Make a Sprite Dance -- `SpriteDance.sb3`  
   ![Make a Sprite Dance Scratch project](screenshots/SpriteDance.jpg)
+- Variabelen -- `Variabelen.sb3`  
+  ![Variabelen Scratch project](screenshots/Variabelen.jpg)
 
 ## :beginner: Programmeren voor kinderen
 
