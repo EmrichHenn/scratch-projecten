@@ -44,6 +44,10 @@
 - Kattenkunst -- `Kattenkunst.sb3`  
   ![Kattenkunst Scratch project](screenshots/Kattenkunst.jpg)
 
+## :video_game: Spelletjes en ander projecten
+
+- :file_folder: [Projecten](projecten/)
+
 ## :page_with_curl: License
 
 The source code is free -- see the [LICENSE](LICENSE) file for details
